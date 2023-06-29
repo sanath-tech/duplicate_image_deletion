@@ -11,6 +11,6 @@ This script is used to compare a series of images in a given folder and delete d
 
 ## Usage
 
-python solution.py <input_folder_path><min_contour_area><threshold>
+python solution.py input_folder_path min_contour_area threshold
 
 Run the script with the desired parameters as shown above
