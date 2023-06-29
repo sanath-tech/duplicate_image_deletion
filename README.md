@@ -10,7 +10,6 @@ This script is used to compare a series of images in a given folder and delete d
 6. Moves to the next image and repeats the process.
 
 ## Usage
-
 Run the script with the desired parameters:
 
 python solution.py <input_folder_path><min_contour_area><threshold>
